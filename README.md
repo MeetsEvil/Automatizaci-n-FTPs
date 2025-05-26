@@ -8,7 +8,7 @@ Este proyecto fue desarrollado para automatizar la separación, procesamiento y 
  
 - Reducir el tiempo y esfuerzo en la gestión de archivos FTP.
 - Generar archivos `.txt` y `.xlsx` organizados y listos para uso operativo o revisión.
-- Crear archivos Excel con información tabular limpia y lista para ser utilizada.
+- Crear archivos Excel con información tabulada, limpia y lista para ser utilizada.
  
 ## Características principales
  
